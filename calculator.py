@@ -1,5 +1,10 @@
-# 기본 계산기
+# 기본 계산기 제작 중
 def add(a, b):
   return a+b
+
 def subtract(a, b):
   return a-b
+
+def divide(a, b):
+    return a/b
+
